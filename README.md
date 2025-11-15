@@ -37,7 +37,7 @@ Może być uznany za uciążliwy przez niektóre programy antywirusowe ze wzglę
 
 ## Jak uruchomić
 
-1. Pobierz plik `.bat` z repozytorium
+1. Pobierz plik z repozytorium
 2. Kliknij dwukrotnie lub uruchom z wiersza poleceń
 3. Podaj wymagane dane (nick, ilość Robuxów)
 4. Obserwuj efekt działania
