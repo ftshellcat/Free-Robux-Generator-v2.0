@@ -2,7 +2,7 @@
 
 ## Opis
 
-Ten projekt to żartobliwy program edukacyjny stworzony w formie pliku wsadowego `.bat`, który symuluje generowanie Robuxów dla konta Roblox. W rzeczywistości nie wykonuje żadnych operacji na serwerach Roblox i nie dodaje żadnych Robuxów – to prank mający na celu rozbawienie użytkownika oraz pokazanie podstawowych możliwości skryptów systemowych.
+Ten projekt to żartobliwy program edukacyjny stworzony w formie pliku wsadowego `.bat`, który symuluje generowanie Robuxów dla konta Roblox. W rzeczywistości nie wykonuje żadnych operacji na swoim koncie Roblox ani nie generuje prawdziwych Robuxów.
 
 ## Co robi
 
@@ -23,9 +23,9 @@ Uświadomienie użytkownikom, że nie istnieją prawdziwe generatory Robuxów
 
 ## Edukacyjny przekaz
 
-Wiele osób szuka sposobów na zdobycie darmowych Robuxów. Niestety, większość stron i programów obiecujących generatory Robuxów to oszustwa, które mogą prowadzić do kradzieży danych, zainfekowania komputera lub utraty konta.
+Wiele osób szuka sposobów na zdobycie darmowych Robuxów. Niestety, większość stron i programów obiecujących generatory Robuxów to oszustwa, które mogą prowadzić do kradzieży danych, zainfekowania komputera lub oszustwa.
 
-Ten projekt powstał po to, by uświadomić użytkownikom, że nie da się wygenerować Robuxów za darmo poza oficjalnymi metodami oferowanymi przez Roblox. Program działa jako symulacja fałszywego generatora, ale kończy się żartem – wyłączeniem `explorer.exe` i otwarciem piosenki – zamiast jakiejkolwiek realnej operacji.
+Ten projekt powstał po to, by uświadomić użytkownikom, że nie da się wygenerować Robuxów za darmo poza oficjalnymi metodami oferowanymi przez Roblox. Program działa jako symulacja fałszywego generatora i jest wyłącznie żartem edukacyjnym.
 
 ## Bezpieczeństwo
 
@@ -34,6 +34,11 @@ Nie modyfikuje plików użytkownika
 Nie instaluje niczego w tle  
 Nie komunikuje się z zewnętrznymi serwerami poza YouTube  
 Może być uznany za uciążliwy przez niektóre programy antywirusowe ze względu na nietypowe zachowanie
+
+**Uwaga dotycząca antywirusa:**  
+Windows Defender oraz inne programy antywirusowe mogą wykryć plik EXE jako wirusa, nawet jeśli nie posiada żadnych złośliwych funkcji. Zgłoszenie najczęściej wynika wyłącznie z nietypowego działania lub faktu, że jest to plik EXE wygenerowany z BAT.  
+Program NIE JEST wirusem. Cały kod źródłowy jest otwarty do weryfikacji. Nie wykonuje żadnych destrukcyjnych, złośliwych ani nielegalnych operacji.  
+Jeśli pojawi się ostrzeżenie od Defendera, można je zignorować po wcześniejszym sprawdzeniu kodu.
 
 ## Jak uruchomić
 
